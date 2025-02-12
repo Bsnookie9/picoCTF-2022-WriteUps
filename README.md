@@ -11,7 +11,7 @@ Here are the write-ups for the challenges I completed
   
   | Challenge | Solved |
   | --------- | ------ |
-  | Local Authority | N |
+  | [Local Authority](https://github.com/Bsnookie9/picoCTF-2022-WriteUps/tree/main/Web%20Exploitation/Local%20Authority) | N |
   | Inspect HTML | N |
   | Includes | N |
   | SQLiLite | N |
