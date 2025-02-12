@@ -7,7 +7,7 @@ Here are the write-ups for the challenges I completed
 # Challenges
 
 <details>
-  <summary>Web Exploitation (4/12)</summary>
+  <summary>Web Exploitation (6/12)</summary>
   
   | Challenge | Solved |
   | --------- | ------ |
@@ -19,7 +19,7 @@ Here are the write-ups for the challenges I completed
   | Secrets | N |
   | Search source | N |
   | [Roboto Sans](https://github.com/Bsnookie9/picoCTF-2022-WriteUps/tree/main/Web%20Exploitation/Roboto%20Sans) | Y |
-  | Power Cookie | N |
+  | [Power Cookie](https://github.com/Bsnookie9/picoCTF-2022-WriteUps/tree/main/Web%20Exploitation/Power%20Cookie) | Y |
   | Forbidden Paths | N |
   | noted | N |
   | Live Art | N |
