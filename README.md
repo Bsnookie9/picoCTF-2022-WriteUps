@@ -7,7 +7,7 @@ Here are the write-ups for the challenges I completed
 # Challenges
 
 <details>
-  <summary>Web Exploitation (7/12)</summary>
+  <summary>Web Exploitation (8/12)</summary>
   
   | Challenge | Solved |
   | --------- | ------ |
@@ -16,7 +16,7 @@ Here are the write-ups for the challenges I completed
   | [Includes](https://github.com/Bsnookie9/picoCTF-2022-WriteUps/tree/main/Web%20Exploitation/Includes) | Y |
   | [SQLiLite](https://github.com/Bsnookie9/picoCTF-2022-WriteUps/tree/main/Web%20Exploitation/SQLiLite) | Y |
   | SQL Direct | N |
-  | Secrets | N |
+  | [Secrets](https://github.com/Bsnookie9/picoCTF-2022-WriteUps/tree/main/Web%20Exploitation/Secrets) | Y |
   | Search source | N |
   | [Roboto Sans](https://github.com/Bsnookie9/picoCTF-2022-WriteUps/tree/main/Web%20Exploitation/Roboto%20Sans) | Y |
   | [Power Cookie](https://github.com/Bsnookie9/picoCTF-2022-WriteUps/tree/main/Web%20Exploitation/Power%20Cookie) | Y |
