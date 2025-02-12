@@ -18,7 +18,7 @@ Here are the write-ups for the challenges I completed
   | SQL Direct | N |
   | Secrets | N |
   | Search source | N |
-  | Roboto Sans | N |
+  | [Roboto Sans](https://github.com/Bsnookie9/picoCTF-2022-WriteUps/tree/main/Web%20Exploitation/Roboto%20Sans) | Y |
   | Power Cookie | N |
   | Forbidden Paths | N |
   | noted | N |
