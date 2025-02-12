@@ -1,0 +1,8 @@
+# general
+title: PicoCTF 2022 Writeups
+description: Writeups for the 2022 PicoCTF challenges I have completed
+author: Bsnookie9
+# theme
+theme: jekyll-theme-hacker
+# Github flavored markdown
+markdown: GFM
