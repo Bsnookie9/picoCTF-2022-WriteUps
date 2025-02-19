@@ -7,6 +7,26 @@ Here are the write-ups for the challenges I completed
 # Challenges
 
 <details>
+  <summary>Reverse Engineering (1/12)</summary>
+  
+  | Challenge | Solved |
+  | --------- | ------ |
+  | unpackme.py | N |
+  | unpackme | N |
+  | [Safe Opener](https://github.com/Bsnookie9/picoCTF-2022-WriteUps/tree/main/Reverse%20Engineering) | Y |
+  | patchme.py | N |
+  | GDB Test Drive | N |
+  | Fresh Java | N |
+  | file-run2 | N |
+  | file-run1 | N |
+  | bloat.py | N |
+  | Bbbbloat | N |
+  | Wizardlike | N |
+  | Keygenme | N |
+
+</details>
+
+<details>
   <summary>Web Exploitation (10/12)</summary>
   
   | Challenge | Solved |
