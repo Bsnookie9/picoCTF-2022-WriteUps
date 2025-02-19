@@ -7,11 +7,11 @@ Here are the write-ups for the challenges I completed
 # Challenges
 
 <details>
-  <summary>Reverse Engineering (4/12)</summary>
+  <summary>Reverse Engineering (5/12)</summary>
   
   | Challenge | Solved |
   | --------- | ------ |
-  | unpackme.py | N |
+  | [unpackme.py](https://github.com/Bsnookie9/picoCTF-2022-WriteUps/tree/main/Reverse%20Engineering/unpackme.py) |Y |
   | unpackme | N |
   | [Safe Opener](https://github.com/Bsnookie9/picoCTF-2022-WriteUps/tree/main/Reverse%20Engineering/Safe%20Opener) | Y |
   | patchme.py | N |
