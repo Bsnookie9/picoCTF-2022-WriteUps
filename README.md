@@ -7,14 +7,14 @@ Here are the write-ups for the challenges I completed
 # Challenges
 
 <details>
-  <summary>Reverse Engineering (6/12)</summary>
+  <summary>Reverse Engineering (7/12)</summary>
   
   | Challenge | Solved |
   | --------- | ------ |
   | [unpackme.py](https://github.com/Bsnookie9/picoCTF-2022-WriteUps/tree/main/Reverse%20Engineering/unpackme.py) |Y |
   | [unpackme](https://github.com/Bsnookie9/picoCTF-2022-WriteUps/tree/main/Reverse%20Engineering/unpackme) | Y |
   | [Safe Opener](https://github.com/Bsnookie9/picoCTF-2022-WriteUps/tree/main/Reverse%20Engineering/Safe%20Opener) | Y |
-  | patchme.py | N |
+  | [patchme.py](https://github.com/Bsnookie9/picoCTF-2022-WriteUps/tree/main/Reverse%20Engineering/patchme.py) | Y |
   | GDB Test Drive | N |
   | [Fresh Java](https://github.com/Bsnookie9/picoCTF-2022-WriteUps/tree/main/Reverse%20Engineering/Fresh%20Java) | Y |
   | [file-run2](https://github.com/Bsnookie9/picoCTF-2022-WriteUps/tree/main/Reverse%20Engineering/file-run2) | Y |
