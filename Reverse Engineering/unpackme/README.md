@@ -9,7 +9,7 @@ Reverse engineer this [binary](https://artifacts.picoctf.net/c/203/unpackme-upx)
 What is UPX?
 
 # Solution
-First download the python file using the `wget command`:
+First download the binary file using the `wget` command:
 
 <kbd>![Screenshot](https://github.com/user-attachments/assets/bc2b61f8-9f13-4f42-a902-633602cd13d3)</kbd>
 
